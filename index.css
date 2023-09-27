@@ -52,8 +52,8 @@
 	box-shadow:4px 0px 10px black;
 }
 .bg{
-	background-image:linear-gradient(to right,#6d81a1,#63cfbe,
-		#63b0a4,#65cfbf,#63b0a5);
+	/*background-image:linear-gradient(to right,#6d81a1,#63cfbe,
+		#63b0a4,#65cfbf,#63b0a5);*/
 /*	position: fixed;*/
 
 }
