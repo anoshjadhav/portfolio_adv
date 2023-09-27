@@ -1,3 +1,8 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	font-family:sans-serif;
+}
 .navmenu{
 	color:white !important;
 	font-size:20px;
