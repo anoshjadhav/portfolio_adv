@@ -52,8 +52,10 @@
 .bg{
 	height:100% !important;
 	width:100% !important;
+	background-color:white !important;
 	background-image:linear-gradient(to right,#6d81a1,#63cfbe,#63b0a4,#63b0a5);
 	background-attachment:fixed;
+	z-index:-3;
 }
 .mdiv{
 	height: auto;
