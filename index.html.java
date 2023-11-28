@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+s
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,7 +18,7 @@
               <link rel="stylesheet" type="text/css" href="index.css">
 
 </head>
-<body class="bg">
+<body class="bg" class="img-fluid">
           <nav class="navbar navbar-expand-lg navbar-light bg-info" width="100%">
             <a class="navbar-brand" href="#"><span class="logo">ADV SAURABH L. PANDIT</span></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -61,7 +63,7 @@
               <span class="sr-only">Next</span>
             </button>
           </div>
-          <!-- following is the seconde section -->
+          <!-- following is the third section -->
           <br>
           <div class="container">
                <div class="row">
@@ -130,7 +132,7 @@
           <div class="container">
                <div class="row">
                    <div class="col-sm-3">
-                  <center>
+                      <center>
                        <img src="https://static.thenounproject.com/png/4658838-200.png" class="img" alt="Compaliances">
                        <p class="law_info">
                          Compaliances

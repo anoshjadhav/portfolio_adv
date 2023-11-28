@@ -76,8 +76,13 @@
 	color: gold;
 }
 .img{
-	height:200px;
-	width: 200px;
+	height:150px;
+	width: 150px;
+}
+.img-4{
+	height:150px;
+	width:100px;
+	margin-left:70px;
 }
 .margin{
 	margin-right:40px;
